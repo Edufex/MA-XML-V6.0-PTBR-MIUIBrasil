@@ -44,13 +44,6 @@
         <item>Alternar janelas</item>
     </string-array>
     <string-array name="pref_homepage_choices">
-        <item>Página atual</item>
-        <item>Página em branco</item>
-        <item>Página padrão</item>
-        <item>Sites mais visitados</item>
-        <item>Outra</item>
-    </string-array>
-    <string-array name="pref_homepage_choices">
         <item>Página inicial padrão</item>
         <item>Personalizado</item>
     </string-array>
