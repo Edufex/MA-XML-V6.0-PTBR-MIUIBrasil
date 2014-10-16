@@ -60,7 +60,6 @@
     <string name="gadget_clock_24_label">Relógio 4x2</string>
     <string name="gadget_clock_label">Relógio</string>
     <string name="gadget_error_text">Problema ao carregar o widget</string>
-    <string name="gadget_error_text">Erro ao carregar widget</string>
     <string name="gadget_google_search_label">Pesquisa Google</string>
     <string name="gadget_load_error">Carregando widget…</string>
     <string name="gadget_mtz_label">Mi Gadgets</string>
@@ -99,7 +98,6 @@
     <string name="menu_customize">Configurações</string>
     <string name="menu_edit">Editar Tela inicial</string>
     <string name="menu_exit_scene">Sair do Mi Space</string>
-    <string name="menu_item_add_item">Adicionar à tela da Página inicial</string>
     <string name="menu_item_add_item">Colocar na Tela Inicial</string>
     <string name="menu_launcher_setting">Configurações do Launcher</string>
     <string name="menu_picktheme">Selecione um tema</string>
@@ -111,7 +109,6 @@
     <string name="menu_workspace_preview">Pré-visualizar Telas iniciais</string>
     <string name="multi_selecting_tips">Para selecionar um app, toque em seu ícone</string>
     <string name="online_wallpaper">Online</string>
-    <string name="out_of_space">Não há mais espaço nesta tela da Página inicial.</string>
     <string name="out_of_space">Não há mais espaço nesta tela</string>
     <string name="permdesc_install_shortcut">Permite que um aplicativo adicione os atalhos sem a intervenção do usuário.</string>
     <string name="permdesc_install_widget">Permite que um aplicativo adicione widgets sem a intervenção do usuário.</string>

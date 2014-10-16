@@ -6,7 +6,6 @@
     <string name="accessibility_button_bookmarks">Favoritos</string>
     <string name="accessibility_button_bookmarks_folder_up">Pasta anterior</string>
     <string name="accessibility_button_clear">Limpar entrada</string>
-    <string name="accessibility_button_clear">Limpar entrada</string>
     <string name="accessibility_button_closetab">Fechar guia</string>
     <string name="accessibility_button_forward">Avançar</string>
     <string name="accessibility_button_go">Ir</string>
@@ -146,7 +145,6 @@
     <string name="choosertitle_sharevia">Compartilhar via</string>
     <string name="clear">Limpar</string>
     <string name="clear_history">Limpar histórico</string>
-    <string name="clear_history">Limpar histórico</string>
     <string name="clear_history_group">Limpar histórico (%s páginas)</string>
     <string name="clear_search_history">Limpar histórico</string>
     <string name="clip_dialog_title">Abrir URL copiada?</string>
@@ -200,8 +198,6 @@
     <string name="contextmenu_map">Mapa</string>
     <string name="contextmenu_openlink">Abrir</string>
     <string name="contextmenu_openlink_newwindow">Abrir em nova guia</string>
-    <string name="contextmenu_openlink_newwindow">Abrir em nova guia</string>
-    <string name="contextmenu_openlink_newwindow_background">Abrir em uma nova guia em segundo plano</string>
     <string name="contextmenu_openlink_newwindow_background">Abrir nova guia em segundo plano</string>
     <string name="contextmenu_savelink">Salvar link</string>
     <string name="contextmenu_send_mail">Enviar e-mail</string>
@@ -256,7 +252,6 @@
     <string name="edit_quicklink">Editar</string>
     <string name="empty_bookmark">Vazio</string>
     <string name="empty_bookmarks_folder">Não há favoritos.</string>
-    <string name="empty_history">Nenhum histórico do navegador.</string>
     <string name="empty_history">Vazio</string>
     <string name="empty_snapshots_folder">Nenhuma página salva.</string>
     <string name="enter_incongnito_mode">Entrar no modo anônimo</string>
@@ -282,9 +277,7 @@
     <string name="geolocation_permissions_prompt_remember">Lembrar preferências</string>
     <string name="geolocation_permissions_prompt_share">Compartilhar local</string>
     <string name="geolocation_permissions_prompt_toast_allowed">Este site pode acessar sua localização. Faça a alteração na tela Configurações > Avançado > Site.</string>
-    <string name="geolocation_permissions_prompt_toast_allowed">Este site pode acessar sua localização. Modifique essa opção no menu Configurações > Avançado > Dados do site.</string>
     <string name="geolocation_permissions_prompt_toast_disallowed">Este site não pode acessar sua localização. Faça a alteração na tela Configurações > Avançado > Site.</string>
-    <string name="geolocation_permissions_prompt_toast_disallowed">Este site não pode acessar sua localização</string>
     <string name="geolocation_settings_page_dialog_cancel_button">Cancelar</string>
     <string name="geolocation_settings_page_dialog_message">Limpar acesso à localização para este site?</string>
     <string name="geolocation_settings_page_dialog_ok_button">OK</string>
@@ -329,11 +322,9 @@
     <string name="loadSuspendedTitle">Sem conexão</string>
     <string name="loading_tips">Puxe para baixo para atualizar</string>
     <string name="loading_video">Carregando vídeo...</string>
-    <string name="local_bookmarks">Locais</string>
     <string name="local_bookmarks">Xiaomi</string>
     <string name="location">Endereço</string>
     <string name="low_memory_error">Não foi possível concluir a operação anterior por falta de memória</string>
-    <string name="max_tabs_warning">Não há mais guias disponíveis</string>
     <string name="max_tabs_warning">Não há mais guias disponíveis</string>
     <string name="media_player_error_button">OK</string>
     <string name="media_player_error_text_invalid_progressive_playback">Não foi possível iniciar o streaming deste vídeo</string>
@@ -402,15 +393,12 @@
     <string name="new_folder">Nova pasta</string>
     <string name="new_folder_name_lable">Nome do grupo</string>
     <string name="new_incognito_tab">Nova guia anônima</string>
-    <string name="new_incognito_tab">Nova guia anônima</string>
-    <string name="new_tab">Nova guia</string>
     <string name="new_tab">Nova guia</string>
     <string name="no_subfolders">Nenhuma subpasta.</string>
     <string name="not_remind_again">Lembrar minha escolha</string>
     <string name="notif_install_successful">Download concluído</string>
     <string name="ok">OK</string>
     <string name="open_all_bookmarks">Abrir todos</string>
-    <string name="open_all_in_new_window">Abrir tudo em novas guias</string>
     <string name="open_all_in_new_window">Abrir tudo em novas guias</string>
     <string name="open_bookmark">Abrir</string>
     <string name="open_history_group_in_new_window">Abrir histórico em nova aba (%s páginas)</string>
@@ -455,7 +443,6 @@
     <string name="pref_content_cloud_speedup">Carregar conteúdo usando proxy</string>
     <string name="pref_content_fontsize_setting">Configurações da fonte</string>
     <string name="pref_content_homepage">Definir página inicial</string>
-    <string name="pref_content_homepage">Definir página inicial</string>
     <string name="pref_content_javascript">Ativar JavaScript</string>
     <string name="pref_content_load_images">Carregar imagens</string>
     <string name="pref_content_load_images_summary">Exibir imagens nas páginas da web</string>
@@ -464,17 +451,13 @@
     <string name="pref_content_night_read_mode">Modo noturno</string>
     <string name="pref_content_open_in_background">Abrir em segundo plano</string>
     <string name="pref_content_open_in_background_summary">Abrir novas guias atrás da guia atual</string>
-    <string name="pref_content_open_in_background_summary">Abrir novas guias atrás da guia atual</string>
     <string name="pref_content_plugins">Ativar plug-ins</string>
-    <string name="pref_content_search_engine">Definir mecanismo de pesquisa</string>
     <string name="pref_content_search_engine">Definir mecanismo de pesquisa</string>
     <string name="pref_content_search_engine_summary">Escolher um mecanismo de pesquisa</string>
     <string name="pref_content_title">Conteúdo da página</string>
     <string name="pref_data_preload_dialogtitle">Pré-carregando resultados de pesquisa</string>
-    <string name="pref_data_preload_summary">Permitir ao naveg. pré-carr. result. de busca de alta confiança em segundo plano</string>
     <string name="pref_data_preload_summary">Permitir ao navegador pré-carregar resultados de busca de alta confiança em segundo plano</string>
     <string name="pref_data_preload_title">Pré-carreg. dos resultados da pesquisa</string>
-    <string name="pref_data_title">Gerenc. largura de banda</string>
     <string name="pref_data_title">Gerenciar largura de banda</string>
     <string name="pref_default_text_encoding">Codificação de texto</string>
     <string name="pref_default_text_encoding_dialogtitle">Codificação de texto</string>
@@ -484,14 +467,10 @@
     <string name="pref_enable_adblock_notification">Notificações do bloqueador de anúncios</string>
     <string name="pref_exit_on_closing_last_tab_enabled_title">Sair ao fechar última guia</string>
     <string name="pref_extras_reset_default">Redefinir para o padrão</string>
-    <string name="pref_extras_reset_default">Redefinir para o padrão</string>
-    <string name="pref_extras_reset_default_dlg">Reverter as configurações para os valores padrão?</string>
     <string name="pref_extras_reset_default_dlg">Reverter as configurações para os valores padrão?</string>
     <string name="pref_extras_reset_default_summary">Restaurar as configurações padrão</string>
-    <string name="pref_extras_reset_default_title">Redefinir padrões</string>
     <string name="pref_extras_reset_default_title">Outros</string>
     <string name="pref_extras_title">Avançado</string>
-    <string name="pref_extras_website_settings">Configurações do site</string>
     <string name="pref_extras_website_settings">Configurações do site</string>
     <string name="pref_extras_website_settings_summary">Configurações avançadas para sites individuais.</string>
     <string name="pref_file_downlaod_save_is_reset_default_settings">Restaurar configurações padrão</string>
@@ -529,7 +508,6 @@
     <string name="pref_lab_title">Google Labs</string>
     <string name="pref_link_prefetch_dialogtitle">Pré-carregamento de página da web</string>
     <string name="pref_link_prefetch_summary">Permitir que o navegador pré-carregue páginas relacionadas em segundo plano</string>
-    <string name="pref_link_prefetch_summary">Permitir que o navegador pré-carregue páginas relacionadas em segundo plano</string>
     <string name="pref_link_prefetch_title">Pré-carregamento de página da web</string>
     <string name="pref_link_prefetch_value_never_summary">Nunca pré-carregar páginas secundárias</string>
     <string name="pref_min_font_size">Tamanho mínimo da fonte</string>
@@ -549,7 +527,6 @@
     <string name="pref_privacy_clear_geolocation_access_summary">Limpar acesso à localização para todos os sites</string>
     <string name="pref_privacy_clear_history">Limpar histórico</string>
     <string name="pref_privacy_clear_history_by_group_dlg">Excluir o histórico do navegador?</string>
-    <string name="pref_privacy_clear_history_dlg">Excluir o histórico de navegação do navegador?</string>
     <string name="pref_privacy_clear_history_dlg">Excluir o histórico de navegação?</string>
     <string name="pref_privacy_clear_history_summary">Limpar o histórico de navegação do navegador</string>
     <string name="pref_privacy_clear_passwords">Limpar senhas</string>
@@ -661,7 +638,6 @@
     <string name="search_easou">Easou</string>
     <string name="search_google">Google</string>
     <string name="search_hint">Pesquisar ou digitar URL</string>
-    <string name="search_hint">Pesquisar ou digitar URL</string>
     <string name="search_s139">139</string>
     <string name="search_settings_description">Favoritos e histórico da Web</string>
     <string name="search_shipin">Vídeo</string>
@@ -678,7 +654,6 @@
     <string name="send_to_popular">Popular</string>
     <string name="set_as_homepage">Definir como página inicial</string>
     <string name="share_link">Compartilhar link</string>
-    <string name="share_page">Compartilhar página</string>
     <string name="share_page">Compartilhar página</string>
     <string name="share_page_text">Estou curtindo (%1$s) | %2$s</string>
     <string name="shortcut_bookmark">Favorito</string>
@@ -733,8 +708,6 @@
     <string name="too_many_subwindows_dialog_message">Apenas um pop-up pode ser aberto por vez.</string>
     <string name="too_many_subwindows_dialog_title">Pop-up já aberta</string>
     <string name="too_many_windows_dialog_message">Não é possível abrir uma nova guia até que outra seja fechada.</string>
-    <string name="too_many_windows_dialog_message">Não é possível abrir uma nova guia até que outra seja fechada.</string>
-    <string name="too_many_windows_dialog_title">Limite da guia atingido</string>
     <string name="too_many_windows_dialog_title">Limite da guias atingido</string>
     <string name="ua_switcher_desktop">Ver versão para web</string>
     <string name="up_to_loading_tips">Solte para atualizar</string>
