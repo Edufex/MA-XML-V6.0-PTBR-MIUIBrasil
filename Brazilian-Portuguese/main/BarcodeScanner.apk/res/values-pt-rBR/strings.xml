@@ -3,7 +3,7 @@
     <string name="accept">OK</string>
     <string name="add_to_contacts">Adicionar aos contatos</string>
     <string name="address">Endereço:</string>
-    <string name="allow_check_website_security">Certifique-se de que os sites são seguros antes de se conectar</string>
+    <string name="allow_check_website_security">Verificar segurança do link do website</string>
     <string name="app_details">Detalhes do app:</string>
     <string name="app_name">Leitor QR</string>
     <string name="back">Voltar</string>
