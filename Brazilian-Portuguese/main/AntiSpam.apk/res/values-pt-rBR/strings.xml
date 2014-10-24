@@ -33,6 +33,7 @@
     <string name="SMS_KEYWORDS">Bloqueio por palavra-chave</string>
     <string name="SMS_MODENAME">Bloqueio padrão</string>
     <string name="SMS_PREFIX">Bloqueio de prefixos</string>
+    <string name="SMS_SERVICE">Bloqueio de serviços</string>
     <string name="SMSpass">Permitir mensagens</string>
     <string name="STRANGER_BLOCK">Bloqueio de números estranhos</string>
     <string name="ad_block_hint">%d bloqueado(s)</string>
@@ -197,6 +198,7 @@ Observe que algumas vezes estas chamadas podem ser úteis (ex.: quando você est
     <string name="st_antispam_title_contact_sms">Mensagens de Contatos</string>
     <string name="st_antispam_title_contactandanoy_group">Configurações</string>
     <string name="st_antispam_title_null_incoming">Números privados</string>
+    <string name="st_antispam_title_service_sms">Notificações de serviços</string>
     <string name="st_antispam_title_whitelist">Exceções</string>
     <string name="st_block_all">Bloquear chamadas e mensagens</string>
     <string name="st_block_mute">Bloquear chamadas e silenciar mensagens</string>
