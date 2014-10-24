@@ -111,7 +111,6 @@
     <string name="bookmark_needs_title">O favorito precisa ter um nome.</string>
     <string name="bookmark_needs_url">O favorito precisa ter um local.</string>
     <string name="bookmark_not_saved">Não foi possível salvar o favorito.</string>
-    <string name="bookmark_page">Adicionar última página visualizada aos favoritos</string>
     <string name="bookmark_rename_group">Renomear grupo</string>
     <string name="bookmark_saved">Salvo nos favoritos.</string>
     <string name="bookmark_this_page">Adicionar esta página aos favoritos</string>
@@ -463,7 +462,6 @@
     <string name="pref_default_text_encoding_dialogtitle">Codificação de texto</string>
     <string name="pref_default_zoom">Zoom padrão</string>
     <string name="pref_default_zoom_dialogtitle">Zoom padrão</string>
-    <string name="pref_development_title">Depurar</string>
     <string name="pref_enable_adblock_notification">Notificações do bloqueador de anúncios</string>
     <string name="pref_exit_on_closing_last_tab_enabled_title">Sair ao fechar última guia</string>
     <string name="pref_extras_reset_default">Redefinir para o padrão</string>
@@ -498,7 +496,6 @@
     <string name="pref_inverted">Renderização invertida</string>
     <string name="pref_inverted_category">Renderização de tela invertida</string>
     <string name="pref_inverted_contrast">Contraste</string>
-    <string name="pref_inverted_summary">O preto fica branco e vice-versa</string>
     <string name="pref_key_gesture_title">Botões e gestos</string>
     <string name="pref_key_title">Configurações de botões</string>
     <string name="pref_lab_fullscreen">Tela cheia</string>
@@ -510,7 +507,6 @@
     <string name="pref_link_prefetch_summary">Permitir que o navegador pré-carregue páginas relacionadas em segundo plano</string>
     <string name="pref_link_prefetch_title">Pré-carregamento de página da web</string>
     <string name="pref_link_prefetch_value_never_summary">Nunca pré-carregar páginas secundárias</string>
-    <string name="pref_min_font_size">Tamanho mínimo da fonte</string>
     <string name="pref_min_font_size_value">%dpt</string>
     <string name="pref_other_title">Outros</string>
     <string name="pref_privacy_clear_cache">Limpar cache</string>
@@ -553,7 +549,6 @@
     <string name="pref_security_show_security_warning_summary">Exibir aviso se houver problema com a segurança de um site</string>
     <string name="pref_set_homepage_to">Definir para</string>
     <string name="pref_setting_title">Configurações de página</string>
-    <string name="pref_text_zoom">Ajuste da escala do texto</string>
     <string name="pref_ua_mione_entry">MiOne</string>
     <string name="pref_ua_string">String de User Agent</string>
     <string name="pref_ua_title">Gerenciar User Agent</string>
@@ -575,6 +570,7 @@
     <string name="profiler_stopped_toast">Criador de perfil finalizado. Os resultados estão em %1$s.</string>
     <string name="progress_dialog_setting_wallpaper">Definindo papel de parede...</string>
     <string name="qr_code_title">Código QR</string>
+    <string name="quicklink_bookmark_save">Salvar em</string>
     <string name="quicklink_not_saved">Não foi possível adicionar à página inicial</string>
     <string name="quicklink_saved">Adicionado à página inicial</string>
     <string name="quicklink_saved_before">Este site já foi adicionado</string>
