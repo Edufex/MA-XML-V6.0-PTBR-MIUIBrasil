@@ -163,12 +163,6 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Supressão de ruído com 1 microfone</item>
         <item>Supressão de ruído com 2 microfones</item>
     </string-array>
-    <string-array name="change_security_lock_picker_key">
-        <item>facial</item>
-        <item>pattern</item>
-        <item>numerical</item>
-        <item>mixed</item>
-    </string-array>
     <string-array name="change_security_lock_picker">
         <item>Desbloqueio facial</item>
         <item>Padrão de desbloqueio</item>
