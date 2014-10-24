@@ -186,8 +186,6 @@ toque no botão do Disparador"</string>
     <string name="pref_camcorder_settings">Filmadora</string>
     <string name="pref_camcorder_settings_category">Configurações da câmera</string>
     <string name="pref_camera_ae_bracket_hdr_title">HDR</string>
-    <string name="pref_camera_antibanding_60">60hz</string>
-    <string name="pref_camera_antibanding_default">50hz</string>
     <string name="pref_camera_antibanding_entry_0">Desligado</string>
     <string name="pref_camera_antibanding_entry_1">50 Hz</string>
     <string name="pref_camera_antibanding_entry_2">60 Hz</string>
@@ -251,7 +249,6 @@ toque no botão do Disparador"</string>
     <string name="pref_camera_focusmode_entry_manual">Manual</string>
     <string name="pref_camera_focusmode_entry_normal">Standard</string>
     <string name="pref_camera_focusmode_title">Modo de foco</string>
-    <string name="pref_camera_focusmode_value_default">continuous-picture</string>
     <string name="pref_camera_hand_night_title">HHT</string>
     <string name="pref_camera_hdr_type_entry_live">Live HDR</string>
     <string name="pref_camera_hdr_type_entry_normal">Normal HDR</string>
@@ -280,10 +277,7 @@ toque no botão do Disparador"</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_on">Disparo contínuo</string>
     <string name="pref_camera_long_pressing_burst_shooting_title">Pressionamento longo do disparador</string>
     <string name="pref_camera_manual_mode_title">Foco manual</string>
-    <string name="pref_camera_movie_solid_default">true</string>
     <string name="pref_camera_movie_solid_title">Estabilizador de imagem</string>
-    <string name="pref_camera_movie_solid_value_off">false</string>
-    <string name="pref_camera_movie_solid_value_on">true</string>
     <string name="pref_camera_multilevel_entry_high">Alto</string>
     <string name="pref_camera_multilevel_entry_higher">Muito alto</string>
     <string name="pref_camera_multilevel_entry_highest">Altíssimo</string>
