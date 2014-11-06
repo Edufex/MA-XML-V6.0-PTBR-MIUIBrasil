@@ -98,6 +98,7 @@
     <string name="file_too_large">O arquivo é muito grande para ser enviado.</string>
     <string name="finished">Concluído</string>
     <string name="folder_exist">A pasta já existe.</string>
+    <string name="folder_name_illegal">Nome de pasta inválido</string>
     <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\">Toque&lt;/a> para ir à lixeira</string>
     <string name="ftp_account_req_notice">4 a 16 caracteres, letras e números, sensível a maiúsculas e minúsculas</string>
     <string name="ftp_anonymous_login">Login anônimo</string>

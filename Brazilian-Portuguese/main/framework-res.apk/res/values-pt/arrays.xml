@@ -43,4 +43,56 @@
         <item>Outros</item>
         <item>Personalizado</item>
     </string-array>
+  <string-array name="app_ops_labels">
+    <item>"Local"</item>
+    <item>"Local"</item>
+    <item>"Local"</item>
+    <item>"Vibração"</item>
+    <item>"Ler contatos"</item>
+    <item>"Modificar contatos"</item>
+    <item>"Ler registro de chamadas"</item>
+    <item>"Modificar registro de chamadas"</item>
+    <item>"Ler agenda"</item>
+    <item>"Modificar agenda"</item>
+    <item>"Local"</item>
+    <item>"Postar notificação"</item>
+    <item>"Local"</item>
+    <item>"Chamar telefone"</item>
+    <item>"Receber SMS/MMS"</item>
+    <item>"Enviar SMS/MMS"</item>
+    <item>"Receber SMS/MMS"</item>
+    <item>"Receber SMS/MMS"</item>
+    <item>"Receber SMS/MMS"</item>
+    <item>"Receber SMS/MMS"</item>
+    <item>"Enviar SMS/MMS"</item>
+    <item>"Receber SMS/MMS"</item>
+    <item>"Enviar SMS/MMS"</item>
+    <item>"Modificar configurações"</item>
+    <item>"Sobrepor"</item>
+    <item>"Acessar notificações"</item>
+    <item>"Câmera"</item>
+    <item>"Gravar áudio"</item>
+    <item>"Reproduzir áudio"</item>
+    <item>"Ler a área de transferência"</item>
+    <item>"Modificar a área de transferência"</item>
+    <item>"Botões de mídia"</item>
+    <item>"Foco de áudio"</item>
+    <item>"Volume mestre"</item>
+    <item>"Volume da voz"</item>
+    <item>"Volume do toque"</item>
+    <item>"Volume da mídia"</item>
+    <item>"Volume do alarme"</item>
+    <item>"Volume da notificação"</item>
+    <item>"Volume do Bluetooth"</item>
+    <item>"Permanecer ativo"</item>
+    <item>"Local"</item>
+    <item>"Local"</item>
+    <item>"Modificar Wi-Fi"</item>
+        <item>"Modificar Bluetooth"</item>
+        <item>"Modificar dados móveis"</item>
+        <item>Enviar MMS</item>
+        <item>Ler MMS</item>
+        <item>Enviar MMS</item>
+        <item>Iniciar automaticamente</item>
+    </string-array>
 </resources>

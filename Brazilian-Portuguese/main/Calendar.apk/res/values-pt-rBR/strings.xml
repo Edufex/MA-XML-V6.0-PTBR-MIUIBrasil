@@ -173,6 +173,7 @@
     <string name="preferences_default_reminder_title">Tempo do lembrete</string>
     <string name="preferences_general_title">Configuração de visualização</string>
     <string name="preferences_hide_declined_title">Ocultar recusados</string>
+    <string name="preferences_home_tz_default">America/Sao_Paulo</string>
     <string name="preferences_home_tz_title">Fuso horário local</string>
     <string name="preferences_reminder_title">Configurações dos lembretes</string>
     <string name="preferences_show_week_num_title">Mostrar núm. da semana</string>

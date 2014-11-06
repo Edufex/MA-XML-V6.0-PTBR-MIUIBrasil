@@ -25,6 +25,9 @@
     <string name="deselect_all">Desmarcar tudo</string>
     <string name="determine">OK</string>
     <string name="dialog_cannot_resume">Download interrompido. Não é possível retomar.</string>
+    <string name="dialog_confirm_delete_checkbox_message">Excluir também o arquivo local</string>
+    <string name="dialog_confirm_delete_downloads_message">Excluir %d tarefas?</string>
+    <string name="dialog_confirm_delete_the_download_item_message">Excluir estas tarefas</string>
     <string name="dialog_failed_body">Você deseja tentar fazer o download do arquivo novamente mais tarde ou excluí-lo da fila?</string>
     <string name="dialog_file_already_exists">Não foi possível fazer o download. O arquivo de destino já existe.</string>
     <string name="dialog_file_missing_body">Não foi possível encontrar o arquivo carregado.</string>
@@ -40,6 +43,7 @@
     <string name="doc_filter">Documentos</string>
     <string name="download_complete">Concluído</string>
     <string name="download_error">Falha</string>
+    <string name="download_error_insufficient_space">Espaço insuficiente</string>
     <string name="download_in_process">Efetuando download</string>
     <string name="download_info_count_deleted_tasks">%s downloads removidos</string>
     <string name="download_info_start_deleted_tasks">Excluir downloads</string>
@@ -60,7 +64,9 @@
     <string name="download_queued">Na fila</string>
     <string name="download_running">Em andamen.</string>
     <string name="download_share_dialog">Compartilhar via</string>
+    <string name="download_speed_null"/>
     <string name="download_success">Concluído</string>
+    <string name="download_title">Downloads</string>
     <string name="download_title_sorted_by_date">Downloads - Classificados por data</string>
     <string name="download_title_sorted_by_size">Downloads - Classificados por tamanho</string>
     <string name="download_wait_connect">Download aguardando conexão</string>

@@ -210,6 +210,7 @@
     <string name="archived">Arquivada</string>
     <string name="att_download_failed_content">Falha no download</string>
     <string name="att_download_failed_title">Falha no download do anexo</string>
+    <string name="att_file_not_exists">Arquivo %s não encontrado</string>
     <string name="att_mgr_no_attachment">Vazio</string>
     <string name="att_mgr_title_order_mime">Formato</string>
     <string name="att_mgr_title_order_name">Nome</string>
@@ -222,8 +223,12 @@
     <string name="attachment_application_vnd_ms_excel">Planilha</string>
     <string name="attachment_application_vnd_ms_powerpoint">Apresentação</string>
     <string name="attachment_audio">Áudio</string>
+    <string name="attachment_canceling">Tarefa sendo cancelada, por favor aguarde</string>
+    <string name="attachment_decoding">O download foi concluído e está sendo decodificado, por favor aguarde.</string>
+    <string name="attachment_download_all">Transferir tudo</string>
     <string name="attachment_image">Imagem</string>
     <string name="attachment_mgr_name">Anexos</string>
+    <string name="attachment_not_exists">The attachment is not available!</string>
     <string name="attachment_not_found">Não foi possível fazer download do anexo.</string>
     <string name="attachment_text">Texto</string>
     <string name="attachment_type_blocked">Você não pode salvar nem abrir este tipo de anexo.</string>
@@ -242,6 +247,9 @@
     <string name="bcc_heading">"Cco: "</string>
     <string name="blank_feedback_toast">É necessário escrever algo antes de enviar</string>
     <string name="body_hint">Escrever e-mail</string>
+    <string name="bottom_bar_more_delete">Excluir</string>
+    <string name="bottom_bar_more_quickreply">Resposta rápida</string>
+    <string name="bottom_bar_more_unread">Marcar como não lida</string>
     <string name="bytes">%s B</string>
     <string name="cancel">Cancelar</string>
     <string name="cancel_action">Cancelar</string>
@@ -252,23 +260,29 @@
     <string name="cant_move_or_change_labels">Não é possível mover porque a seleção contém várias contas.</string>
     <string name="cc">Cc</string>
     <string name="cc_attribution">Cc: %1$s&lt;br></string>
+    <string name="cc_bcc">Cc/Bcc</string>
     <string name="cc_heading">"Cc: "</string>
     <string name="change_account_confirm">A conta \"%1$s\" será removida do WPS Mail.</string>
     <string name="change_account_type">Alterar tipo de conta</string>
     <string name="change_folders_selection_dialog_title">Alterar pastas</string>
     <string name="change_sync_settings">Alterar config. de sincr.</string>
+    <string name="chat_type_name">conversas</string>
+    <string name="check_setup_data">Validando configurações do servidor…</string>
     <string name="checking_for_mail">Verificando e-mail</string>
     <string name="choosertitle_sharevia">Compartilhar via</string>
     <string name="clear">Limpar</string>
     <string name="clear_display_images_whitelist_dialog_message">Não mostrar mais imagens inline de remetentes que você autorizou anteriormente.</string>
     <string name="clear_display_images_whitelist_dialog_title">Limpar aprovações de fotos?</string>
     <string name="clear_display_images_whitelist_title">Limpar aprovações de fotos</string>
+    <string name="click_download_all_content">[ Toque para transferir o conteúdo ]</string>
     <string name="collapse_recipient_details">Recolher detalhes do destinatário</string>
     <string name="colon">:</string>
     <string name="compose">Escrever</string>
+    <string name="compose_help_context">Excrever</string>
     <string name="compose_send">Enviar</string>
     <string name="compose_sent">Mensagem enviada</string>
     <string name="confirm">Confirmar</string>
+    <string name="confirm_delete">Excluir este e-mail?</string>
     <string name="confirm_discard_text">Descartar esta mensagem?</string>
     <string name="confirm_response">Enviando resposta…</string>
     <string name="confirm_save_message_no">Não</string>
@@ -302,6 +316,7 @@
     <string name="conversation_item_mark_read">Lida</string>
     <string name="conversation_item_mark_unread">Não lida</string>
     <string name="conversation_list_net_check">Impossível conectar-se à rede, por favor verifique suas configurações ou tente novamente mais tarde</string>
+    <string name="conversation_overload_toast">Não foi possível conectar-se à rede, por favor leia a mensagem amis tarde em um PC</string>
     <string name="conversation_photo_welcome_text">Toque na imagem do remetente para selecionar a conversa.</string>
     <string name="copy_email">Copiar endereço de e-mail</string>
     <string name="copy_number">Copiar número de telefone</string>
@@ -327,6 +342,7 @@
     <string name="default_setup">CONFIGURAÇÃO PADRÃO</string>
     <string name="default_signature">Enviado do meu Xiaomi</string>
     <string name="delete">Excluir</string>
+    <string name="delete_conversation_hint_message">%1$d %2$s excluída(s)</string>
     <string name="deleted">Excluída</string>
     <string name="device_activity_btn_str">Ativar serviço</string>
     <string name="device_activity_lint_str">Ativa o serviço de e-mail completamente e ativa a segurança do dispositivo</string>
@@ -350,11 +366,13 @@
     <string name="downlaod_nonWifi_confirm_message">Utilizar seus dados móveis para o download deste anexo?</string>
     <string name="download_again">Fazer novo download</string>
     <string name="download_before_sharing">" ainda está em download"</string>
+    <string name="download_before_view">Esta mensagme ainda não foi transferida</string>
     <string name="download_cancel_confirm_title">O download será cancelado</string>
     <string name="download_complete_not_cancel">Download concluído</string>
     <string name="download_confirm_message">Fazer o download do anexo %1$s?</string>
     <string name="download_confirm_title">Download de anexos</string>
     <string name="download_failed">Falha no download. Toque p/ repetir.</string>
+    <string name="downloading_message_body">Transferindo…</string>
     <string name="draft_count_format"> (%1$s)</string>
     <string name="drawer_close">Fechar gaveta de navegação</string>
     <string name="drawer_open">Abrir gaveta de navegação</string>
@@ -379,12 +397,18 @@
     <string name="failed">Impossível carregar a imagem</string>
     <string name="feedback">Enviar comentários</string>
     <string name="feedback_body">Comentários</string>
+    <string name="feedback_sent">Obrigado por seus comentários</string>
     <string name="fetching_attachment">Buscando anexo</string>
     <string name="file_deleted_success">Arquivo excluído</string>
     <string name="file_not_found">Arquivo não encontrado</string>
     <string name="file_not_found_reDownload">Arquivo não encontrado</string>
     <string name="file_rar_not_support">Impossível abrir arquivos encriptados</string>
     <string name="filtered_tag">[%1$s]%2$s</string>
+  <string name="flow_saved_dlg_do_not_show">Não mostrar novamente</string>
+  <string name="flow_saved_dlg_i_know">OK</string>
+  <string name="flow_saved_dlg_message">%1$d novas mensagens. %2$s economizados (dados móveis).</string>
+  <string name="flow_saved_dlg_title">Dados móveis economizados</string>
+  <string name="flow_saved_preference_total">%1$s economizado.</string>
     <string name="folder_drafts_name_en0">Rascunhos</string>
     <string name="folder_drafts_name_en1">Rascunho</string>
     <string name="folder_icon_desc">Ícone de pasta</string>
@@ -405,6 +429,7 @@
     <string name="forward_attribution_no_headers">---------- Mensagem encaminhada ----------</string>
     <string name="forward_download_failed_ticker">Não foi possível encaminhar todos os anexos.</string>
     <string name="forward_download_failed_title">Anexo não encaminhado</string>
+    <string name="forward_subject_label">Enc:</string>
     <string name="from">De</string>
     <string name="from_heading">"De: "</string>
     <string name="general_preference_confirm_delete_label">Confirmar antes de excluir</string>
@@ -419,8 +444,11 @@
     <string name="general_preference_text_zoom_small">Pequeno</string>
     <string name="general_preference_text_zoom_tiny">Muito pequeno</string>
     <string name="generic_attachment_problem">Não foi possível anexar o arquivo.</string>
+  <string name="header_category_account">Contas</string>
+  <string name="header_category_other">Configurações adicionais</string>
     <string name="header_label_general_preferences">Configurações gerais</string>
     <string name="help_and_info">Ajuda</string>
+    <string name="hide_atts_remaining">Ocultar %1$d anexos</string>
     <string name="hide_elided">▼ Ocultar texto das mensagens anteriores</string>
     <string name="hide_folders">Ocultar pastas</string>
     <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
@@ -438,10 +466,13 @@
     <string name="invalid_recipient">O endereço %s é inválido.</string>
     <string name="kilobytes">%s KB</string>
     <string name="label_notification_ticker" formatted="false">%s: %s</string>
+    <string name="load_from_remote">Continuar pesquisa no servidor</string>
     <string name="load_more">Carregar mais</string>
     <string name="loading_conversation">Carregando…</string>
     <string name="loading_conversations">Carregando…</string>
+    <string name="loading_from_remote">Pesquisando…</string>
     <string name="local_search">Pesquisa local</string>
+    <string name="local_search_result">%s e-mails encontrados em seu dispositivo.</string>
     <string name="login">Login</string>
     <string name="login_failed_ticker">Falha no login de %s.</string>
     <string name="login_failed_title">Impossível fazer login</string>
@@ -449,6 +480,11 @@
     <string name="long_string">looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong</string>
     <string name="mail">E-mail</string>
     <string name="mail_body_turncated">Este e-mail é muito grande para ser carregado, e apenas uma parte será exibida. Para visualizá-lo por completo, acesse seu e-mail através de um PC mais tarde</string>
+  <string name="mail_header_downloading_message_body">Transferindo…</string>
+  <string name="mail_header_message_body_auto_download_complete">Conteúdo de e-mail transferidos usando Wi-Fi.</string>
+  <string name="mail_header_message_body_auto_download_tip">O conteúdo do e-mail será transferido usando Wi-Fi.</string>
+  <string name="mail_header_message_body_download_failed">Tempo limite atingido.</string>
+  <string name="mail_header_network_not_available">Conexão de rede não encontrada</string>
     <string name="mailbox_list_account_selector_combined_view">Visualização combinada</string>
     <string name="mailbox_name_display_drafts">Rascunhos</string>
     <string name="mailbox_name_display_inbox">Caixa de entrada</string>
@@ -503,6 +539,11 @@
     <string name="menu_search">Pesquisar</string>
     <string name="menu_settings">Configurações</string>
     <string name="menu_show_original">Reverter dimens. automát.</string>
+  <string name="merged_mailbox_compose_select_account">Selecionar conta</string>
+  <string name="message_body_auto_download_complete">E-mail transferido usando Wi-Fi</string>
+  <string name="message_body_auto_download_tip">Seus e-mails serão transferidos automaticamente quando você estiver conectado a uma rede Wi-Fi.</string>
+  <string name="message_body_download_failed">Não foi possível transferir o e-mail. Tempo limite atingido.</string>
+  <string name="message_body_loading">[ Carregando… ]</string>
     <string name="message_compose_fwd_header_fmt">"
 
 -------- Mensagem Original --------
@@ -521,11 +562,12 @@ Cc: %4$s
     <string name="message_invite_accept">Sim</string>
     <string name="message_invite_calendar_view">Ver na Agenda</string>
     <string name="message_invite_decline">Não</string>
-    <string name="message_invite_label_attending">Indo?</string>
     <string name="message_invite_tentative">Talvez</string>
     <string name="message_invite_title">Convite da Agenda</string>
     <string name="message_saved">Mensagem salva como rascunho.</string>
+  <string name="message_type_name">mensagens</string>
     <string name="message_view_attachment_background_load">Um ou mais anexos de sua mensagem encaminhada serão transferidos antes do envio.</string>
+  <string name="more_atts_remaining">%1$d restantes</string>
     <string name="more_atts_total">%1$d anexos</string>
     <string name="more_info_attachment">Informações</string>
     <string name="more_string">+%1$s</string>
@@ -534,13 +576,15 @@ Cc: %4$s
     <string name="multiple_new_message_notification_item"><b>%1$s</b> %2$s</string>
     <string name="mute">Ignorar</string>
     <string name="name_or_number_is_error">Erro no nome de usuário ou senha</string>
-    <string name="net_check_title">Impossível conectar-se. Verifique sua conexão de rede e tente novamente.</string>
     <string name="network_error">Sem conexão</string>
+  <string name="network_not_available">Não foi possível conectar-se à rede</string>
     <string name="new_incoming_messages_one">Nova mensagem de %s. Mostrar.</string>
     <string name="new_messages">%1$d novas mensagens</string>
     <string name="next_action">Próxima</string>
     <string name="no">Não</string>
+  <string name="no_address_email">noaddressemail@123.com</string>
     <string name="no_application_found">Nenhum aplicativo pode abrir este anexo para visualização.</string>
+  <string name="no_contacts">Nenhum contato.</string>
     <string name="no_conversations">Nenhuma mensagem</string>
     <string name="no_mails">Vazio</string>
     <string name="no_matched_attachment">Sem correspondências ao critério de pesquisa</string>
@@ -568,7 +612,11 @@ Cc: %4$s
     <string name="outbox_alert_description_http_error">Motivo: Erro de HTTP durante sincronização</string>
     <string name="outbox_alert_description_provision_error">Motivo: Erro do servidor durante sincronização</string>
     <string name="outbox_alert_description_sent_failed">"O arquivo anexado excede o limite de tamanho"</string>
+  <string name="outbox_alert_duplicate_click">Ainda sincronizando…</string>
+  <string name="outbox_alert_edit_resend">Editar e reenviar</string>
+  <string name="outbox_alert_failed_edit_resend">Não foi possível enviar a mensagem. Edite-a e tente novamente.</string>
     <string name="outbox_alert_mailbox_not_found">Endereço de e-mail não encontrado</string>
+  <string name="outbox_alert_select_operation">Selecione uma ação</string>
     <string name="outbox_alert_title_sent_failed">Falha ao enviar e-mail</string>
     <string name="outbox_no_mails">Nenhum e-mail na Caixa de saída</string>
     <string name="parase_setup_data">Obtendo dados...</string>
@@ -581,6 +629,9 @@ Cc: %4$s
     <string name="password_expired_dialog_content_fmt">Os dados da %s estão sendo apagados de seu dispositivo. Você pode restaurá-los alterando o PIN ou a senha de sua tela de bloqueio. Deseja mudar isso agora?</string>
     <string name="password_expired_dialog_title">Senha da tela de bloqueio expirada</string>
     <string name="password_expired_ticker">Sua senha ou PIN da tela de bloqueio expirou.</string>
+  <string name="perference_change_pw">Alterar senha</string>
+  <string name="perference_change_pw_notnull_tips">Digite sua senha</string>
+  <string name="perference_change_pw_ok_tips">Senha alterada</string>
     <string name="permission_access_provider_desc">Permite que o aplicativo acesse seu e-mail, mensagens, nomes de usuário e senhas.</string>
     <string name="permission_access_provider_label">Acessar dados do usuário</string>
     <string name="permission_read_attachment_desc">Permite que o aplicativo leia seus anexos de e-mail.</string>
@@ -623,6 +674,8 @@ Cc: %4$s
     <string name="pop3_name">POP3</string>
     <string name="prefDialogTitle_conversationListIcon">Imagem do remetente</string>
     <string name="prefDialogTitle_removal_action">Ações de arquivar e excluir</string>
+    <string name="preference_head_load_description">Transfere somente o assunto das mensagens ao usar uma conexão de dados móveis.</string>
+    <string name="preference_head_load_title">Reduzir uso de dados</string>
     <string name="preference_removal_action_title">Ações de arquivar e excluir</string>
     <string name="preference_sender_image_description">Mostrar caixa de seleção ao lado do nome na lista de conversas</string>
     <string name="preference_sender_image_title">Imagem do remetente</string>
@@ -634,6 +687,7 @@ Cc: %4$s
     <string name="preferences_signature_dialog_title">Assinatura</string>
     <string name="preferences_signature_summary_not_set">Não definida</string>
     <string name="preferences_signature_title">Assinatura</string>
+  <string name="prefetched_got_it">OK</string>
     <string name="preview_attachment">Visualizar</string>
     <string name="previous_action">Voltar</string>
     <string name="prompt_title">Prompt</string>
@@ -649,6 +703,7 @@ Cc: %4$s
     <string name="quick_2">Parece uma boa ideia!</string>
     <string name="quick_3">Lerei isso mais tarde e darei uma resposta a você.</string>
     <string name="quick_4">Podemos marcar uma reunião para discutir isso.</string>
+  <string name="quick_reply_dialog_title">Selecionar resposta</string>
     <string name="quick_responses_empty_view">Nenhuma resposta rápida.</string>
     <string name="quote_begin">&lt;div class=\"quote\"></string>
     <string name="quoted_text">Incluir texto das mensagens anteriores</string>
@@ -657,10 +712,14 @@ Cc: %4$s
     <string name="recent_folders_heading">Pastas recentes</string>
     <string name="recipient_error_dialog_title">Erro de destinatário</string>
     <string name="recipient_needed">Adicione pelo menos um destinatário.</string>
+  <string name="recipient_null_dialog_title">Alerta</string>
     <string name="refresh">Atualizar</string>
     <string name="refreshing">Atualizando…</string>
+  <string name="refreshing_done">Concluído</string>
     <string name="release_to_refresh">Solte para atualizar</string>
     <string name="remote_folders_heading">Pastas do servidor</string>
+  <string name="remote_search">Todos os e-mails no servidor</string>
+  <string name="remote_search_result">%s e-mails encontrador no servidor</string>
     <string name="remove_account">Remover conta</string>
     <string name="remove_account_confirm">A conta \"%1$s\" será removida do WPS Mail.</string>
     <string name="remove_folder">Remover de %1$s</string>
@@ -668,6 +727,7 @@ Cc: %4$s
     <string name="reply">Responder</string>
     <string name="reply_all">Res. a todos</string>
     <string name="reply_attribution" formatted="false">Em %s, %s escreveu:</string>
+  <string name="reply_subject_label">Res:</string>
     <string name="replyto_heading">"Responder para: "</string>
     <string name="report">Informar</string>
     <string name="report_phishing">Denunciar phishing</string>
@@ -700,6 +760,7 @@ Cc: %4$s
     <string name="select_attachment_type">Escolher tipo de anexo</string>
     <string name="select_no_file">Nenhum anexo selecionado</string>
     <string name="send">Enviar</string>
+  <string name="send_att_title">Alerta</string>
     <string name="send_failed">A mensagem não foi enviada.</string>
     <string name="sender_whitelist_cleared">As imagens não serão exibidas automaticamente.</string>
     <string name="senders_elided">..</string>
@@ -709,10 +770,8 @@ Cc: %4$s
     <string name="sent_folder_selection_title">Pasta Enviados do servidor p/ %s</string>
     <string name="ser_resp_err_map_certificate_validator_err">"Falha ao validar certificado do servidor
 \u0009 (Verifique se a configuração está definida como automática)"</string>
-    <string name="ser_resp_err_map_connect_err">Erro na conexão com a internet. Por favor tente utilizando outra conexão</string>
     <string name="ser_resp_err_map_nouser">Usuário não encontrado</string>
     <string name="ser_resp_err_map_or">Ou</string>
-    <string name="ser_resp_err_map_pserr">Usuário ou senha inválidos</string>
     <string name="ser_resp_err_map_serclosed">Serviço fechado</string>
     <string name="ser_resp_err_map_ssl">"Por favor tente selecionar 'SSL/TLS (Aceitar todos os certificados)' em 'Tipo de segurança'"</string>
     <string name="set_network">Definir rede</string>

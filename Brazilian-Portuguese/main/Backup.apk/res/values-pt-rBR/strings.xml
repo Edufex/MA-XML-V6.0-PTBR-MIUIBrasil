@@ -68,10 +68,12 @@
     <string name="current_sim">Cartão SIM atual</string>
     <string name="data_no_enough_space">Espaço insuficiente</string>
     <string name="data_no_enough_space_message">Não há espaço livre suficiente na memória interna do seu telefone.</string>
+    <string name="date_format">dd-MM-yyyy HH:mm:ss</string>
     <string name="delete">Excluir</string>
     <string name="delete_backup_process">Excluindo…</string>
     <string name="delete_failed_backup_confirm">O arquivo de backup selecionado não pode ser usado por conter erros.</string>
     <string name="deselect_all">Desmarcar tudo</string>
+    <string name="dir_date_format">ddMMyyyy_HHmmss</string>
     <string name="disable_encrypt_title">Desativar criptografia</string>
     <string name="enable_encrypt">Ativar</string>
     <string name="enable_encrypt_fail">Falha na criptografia</string>

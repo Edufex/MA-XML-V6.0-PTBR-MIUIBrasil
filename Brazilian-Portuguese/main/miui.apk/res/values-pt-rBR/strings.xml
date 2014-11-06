@@ -466,6 +466,8 @@
     <string name="organization">Organização</string>
     <string name="perm_payment_dspt">Permitir que o app pague através do Serviço de Pagamentos Mi</string>
     <string name="perm_payment_lab">Serviço de Pagamentos Mi</string>
+  <string name="permdesc_sendSmsNoConfirmation">App pode enviar mensagens SMS sem nenhuma confirmação. Isto poderá resultar em cobranças de sua operadora.</string>
+  <string name="permlab_sendSmsNoConfirmation">Permitir mensagens SMS em segundo plano</string>
     <string name="phone">Telefone</string>
     <string name="pm">PM</string>
     <string name="privacy_policy">Política de Privacidade</string>

@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="Dashboard_App">Apps</string>
-    <string name="Dashboard_HIPS_Disable_Content">"Ao desativar o monitoramento de permissões a MIUI não monitorará as requisições dos apps e não protegerá a segurança e privacidade de seus dados.
-Tem certeza de que deseja desativá-lo?"</string>
+    <string name="Dashboard_HIPS_Disable_Content">A MIUI não irá monitorar solicitações de permissões de apps.</string>
     <string name="Dashboard_HIPS_Disable_Title">Permissões</string>
     <string name="Dashboard_Log">Registros</string>
     <string name="Dashboard_Log_Clear_Content">Todos os registros serão apagados.</string>
@@ -29,8 +28,7 @@ Você precisa instalar a versão de desenvolvedor da MIUI para conceder acesso r
     <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">Download MIUI</string>
     <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://www.miui.com/getrom.php</string>
     <string name="Dashboard_Perm_SU_Switch">Acesso root</string>
-    <string name="Dashboard_Su_Enable_Content">"Ao ativar este recurso os apps poderão solicitar permissão root.
-Observação: Apps com esta permissão podem causar instabilidades, perda de dados e danos ao sistema ou hardware. Por favor, proceda com cautela. Tem certeza de que quer ativá-lo?"</string>
+    <string name="Dashboard_Su_Enable_Content">Conceder acesso root a apps de terceiros pode causar instabilidades no sistema, perda de dados do usuário e até mesmo danificar o hardware.</string>
     <string name="Dashboard_Su_Enable_Title">Acesso root</string>
     <string name="Generic_Canceling">Cancelando…</string>
     <string name="Generic_Check">Verificar</string>

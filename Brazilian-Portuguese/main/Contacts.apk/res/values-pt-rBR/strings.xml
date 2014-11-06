@@ -481,6 +481,9 @@ Motivo: \"%s\""</string>
     <string name="locale_change_in_progress">A lista de contatos está sendo atualizada para incorporar a alteração do idioma.</string>
     <string name="login_ok">Fazer login</string>
     <string name="lunarBirthdayLabelsGroup">Aniversário lunar</string>
+    <string name="lunar_calendar" />
+    <string name="lunar_leap" />
+    <string name="lunar_yue" />
     <string name="make_primary">Lembrar desta escolha</string>
     <string name="map_custom">Mostrar endereço de %s</string>
     <string name="map_home">Mostrar endereço residencial</string>
@@ -565,6 +568,7 @@ Motivo: \"%s\""</string>
     <string name="nickname_picker_name_column">Nome do contato</string>
     <string name="nickname_picker_nickname_column">Apelido</string>
     <string name="noAccounts">Para criar grupos você precisa de uma conta.</string>
+    <string name="noContactHelpTextAccountsInfo" />
     <string name="noContactHelpTextImportXiaomiAccountInfo">Restaurar dados de contatos usando a Conta Mi</string>
     <string name="noContacts">Nenhum contato</string>
     <string name="noContactsHelpText">"\"Você não possui contatos para mostrar.
@@ -976,6 +980,7 @@ o conteúdo que você está acessando não está disponível para sua região."<
     <string name="set_default">Definir padrão</string>
     <string name="set_photo_failed_msg">Não foi possível atribuir uma foto.</string>
     <string name="share_error">Este contato não pode ser compartilhado.</string>
+    <string name="share_over_limit">O limite de compartilhamento foi excedido</string>
     <string name="share_via">Enviar</string>
     <string name="share_visible_contacts">Compartilhar contatos</string>
     <string name="shortcutActivityTitle">Selecione um atalho para o contato</string>
@@ -1049,6 +1054,7 @@ o conteúdo que você está acessando não está disponível para sua região."<
     <string name="sms_work_pager">Enviar mensagem para pager comercial</string>
     <string name="social_widget_label">Contato</string>
     <string name="social_widget_loading">Carregando…</string>
+    <string name="solar_calendar" />
     <string name="splitConfirmation">Este contato será separado em vários contatos.</string>
     <string name="splitConfirmation_title">Separar contato?</string>
     <string name="starredList">Com estrela</string>
@@ -1139,6 +1145,7 @@ Escolha uma das seguintes opções:"</string>
     <string name="yellowpage_navigation_no_content">Nada encontrado</string>
     <string name="yellowpage_navigation_search_city_name_hint">Cidade</string>
     <string name="yellowpage_navigation_search_offline_hint">Você está offline</string>
+    <string name="yellowpage_navigation_search_result_average_price">Em média %d RMB</string>
     <string name="yellowpage_navigation_search_result_network_error">Não foi possível conectar-se à rede. Verifique sua conexão de dados e tente novamente.</string>
     <string name="yellowpage_navigation_search_result_no_more">Sem mais resultados</string>
     <string name="yellowpage_navigation_search_result_service_error">Serviço indisponível</string>
